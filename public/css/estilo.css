@@ -1,0 +1,13 @@
+body {
+    background-image: url('../img/fundo.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    color: white;
+}
+
+.footer {
+    position: absolute;
+    bottom: 2em;
+    width: 90%;
+}
